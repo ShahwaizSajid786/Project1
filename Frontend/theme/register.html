@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en" dir="lrt">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="These template is suitable for charity , NGO , non-profit organization , donation , church or a fundraising website.">
+    <meta name="keywords" content="charity, causes, donate, charity foundation, charity hub, charity theme, donations, non profit, fundraiser,social, ngo, non-profit, nonprofit, organization, volunteer">
+    <meta name="author" content="initTheme">
+	  <meta property="og:type" content="website" >
+    <meta property="og:title" content="Charity & Donation HTML Template" >
+    <meta property="og:site_name" content="donate Website" >
+    <meta property="og:site_name" content="Charitfix" >
+    <meta property="og:url" content="www.Charitfix.com" >
+    <meta property="og:image" content="www.Charitfix.com" >
+    <meta property="og:description" content="These template is suitable for charity , NGO ,donate,fundraiser, non-profit organization" >
+    <meta name="twitter:title" content="Charity & Donation HTML Template" >
+    <meta name="twitter:description" content="These template is suitable for charity , NGO ,donate,fundraiser, non-profit organization" >
+    <meta name="twitter:image" content="www.Charitfix.com" >
+    <meta name="twitter:card" content="summary" >
+    <title>Donate Smile</title>    <link rel="icon" type="image/x-icon" sizes="20x20" href="assets/images/logo/logo.png">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap-5.3.0.min.css">
+    <!-- fonts & icon -->
+    <link rel="stylesheet" type="text/css" href="assets/css/remixicon.css">
+    <!-- Plugin -->
+    <link rel="stylesheet" type="text/css" href="assets/css/plugin.css">
+    <!-- Main CSS -->
+    <link rel="stylesheet" type="text/css" href="assets/css/main-style.css">
+    <!-- RTL CSS::When Need RTL Uncomments File -->
+    <!-- <link rel="stylesheet" type="text/css" href="assets/css/rtl.css"> -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <script src="./assets/js/btnauth.js"></script>
+    <style>
+      .custom-ok-button {
+  background-color: #0b594b; /* Change this to your desired color */
+  color: white; /* Text color */
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.custom-ok-button:hover {
+  background-color: #45a049; /* Hover effect */
+}
+    </style>
+  </head>
+  <body>
+    <div class="loading-page" id="preloader-active">
+      <div class="counter">
+          <p class="text text-capitalize">loading</p>
+          <span class="number">0%</span>
+          <span class="line"></span>
+      </div>
+    </div>
+    <header>
+      <div class="header-area">
+        <div class="main-header header-sticky">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12">
+                <div class="menu-wrapper d-flex align-items-center justify-content-between">
+                  <div class="header-left d-flex align-items-center justify-content-between">
+                    <!-- Logo-->
+                    <div class="logo logo-large light-logo">
+                      <a href="index.html"><img style="width: 160px;" src="assets/images/logo/logo.png" alt="logo"></a>
+                    </div>
+                    <!-- Logo Mobile-->
+                    <div class="logo logo-mobile light-logo">
+                      <a href="index.html"><img style="width: 160px;" src="assets/images/logo/logo.png" alt="logo"></a>                    </div>
+                  </div>
+
+                  <div class="search-container">
+                    <input type="text" id="searchField" class="search-field" placeholder="Search...">
+                    <button id="closeSearch" class="close-search-btn"><i class="ri-close-line"></i></button>
+                  </div>
+
+                  <!-- Main-menu for desktop -->
+                  <div class="main-menu d-none d-lg-block">
+                    <nav>
+                      <ul class="listing" id="navigation">
+                        <li class="single-list">
+                          <a href="index.html" class="single">Home </a>
+                         
+                        </li>
+                        <li class="single-list"><a href="about.html" class="single">About</a></li>
+                        <li class="single-list"><a href="donation.html" class="single">Donation</a></li>
+                        <li class="single-list">
+                          <a href="javascript:void(0)" class="single active"> More <i class="ri-arrow-down-s-line"></i></a>
+                          <ul class="submenu">
+                            <li class="single-list"><a href="donate-payment.html" class="single">donate pay</a></li>
+                            <li class="single-list">
+                              <a href="javascript:void(0)" class="single">Login<i class="ri-arrow-right-s-line"></i></a>
+                              <ul class="submenu">
+                                <li class="single-list"><a href="login.html" class="single">Login</a></li>
+                                <li class="single-list"><a href="register.html" class="single">Registration</a></li>
+                                 
+                              </ul>
+                            </li>
+
+                            <li class="single-list"><a href="faq.html" class="single">FAQs</a></li>
+                            <li class="single-list"><a href="privacy-policy.html" class="single">privacy policy</a></li>
+                            <li class="single-list"><a href="terms-condition.html" class="single">terms-condition</a></li>
+                          </ul>
+                        </li>
+                        <li class="single-list"><a href="contact-us.html" class="single">Contact</a></li>
+                      </ul>
+                    </nav>
+                  </div>
+                  
+                  <div class="header-right">
+                    <div class="cart">
+                      <a href="login.html" id="loginBtn" class="btn-primary-fill pill-btn" style="display: none;">Log in</a>
+                      <a href="" id="logoutBtn" class="btn-primary-fill pill-btn" style="display: none; background-color: red; color: white;">Log out</a>
+                    </div>
+                  </div>
+                </div>
+                  <!-- Mobile Menu -->
+                  <div class="div">
+                    <div class="mobile_menu d-block d-lg-none"></div>
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main>
+      <!-- Breadcrumb Area S t a r t -->
+      <section class="breadcrumb-section breadcrumb-bg">
+        <div class="container">
+          <div class="breadcrumb-text">
+            <h1 class="title wow fadeInUp" data-wow-delay="0.1s">Register</h1>
+          </div>
+        </div>
+      </section>
+      <!-- End-of Breadcrumb Area -->
+
+      <!-- Login area S t a r t  -->
+      <div class="login-area section-padding">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-xl-5 col-lg-6 col-md-8 col-sm-10">
+              <div class="login-card">
+                <!-- Logo -->
+                <div class="logo mb-40">
+                  <a href="index.html"><img style="width: 160px;" src="assets/images/logo/logo.png" alt="logo"></a>
+                </div>
+                <!-- Form -->
+                <form id="signupForm">
+                  <div class="contact-form mb-24">
+                    <label class="contact-label">Name </label>
+                    <input class="form-control contact-input" type="text" id="name" placeholder="Enter Your Name" required>
+                  </div>
+                  <div class="contact-form mb-24">
+                    <label class="contact-label">Email </label>
+                    <input class="form-control contact-input" type="email" id="email" placeholder="Email" required>
+                  </div>
+                
+                  <!-- Password -->
+                  <div class="position-relative contact-form mb-24">
+                    <label class="contact-label">Enter Password</label>
+                    <input type="password" class="form-control contact-input password-input" id="password" placeholder="Enter Password" required>
+                    <i class="toggle-password ri-eye-line"></i>
+                  </div>
+                  <!-- Password -->
+                  <div class="position-relative contact-form mb-24">
+                    <label class="contact-label">Confirm Password</label>
+                    <input type="password" class="form-control contact-input password-input" id="confirmPassword" placeholder="Confirm Password" required>
+                    <i class="toggle-password ri-eye-line"></i>
+                  </div>
+                
+                  <button type="submit" class="btn-primary-fill justify-content-center">
+                    <span class="d-flex justify-content-center gap-6">
+                      <span>Register</span>
+                    </span>
+                  </button>
+                </form>
+
+                <div class="login-footer mb-20">
+                  <div class="create-account">
+                    <p>
+                      Already have an account?
+                      <a href="login.html">
+                        <span>Login</span>
+                      </a>
+                    </p>
+                  </div>
+                </div>
+
+             
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End-of Login -->
+    </main>
+    <!-- Footer S t a r t -->
+    <footer>
+      <div class="footer-wrapper footer-bg-one">
+        <div class="container">
+      
+          <div class="footer-imp-link row g-4 justify-content-between">
+            <div class="col-xl-2 col-lg-6">
+              <div class="footer-link">
+                <h4 class="title">Explore Links</h4>
+                <ul class="imp-link">
+                  <li class="single-list">
+                    <a class="single" href="javascript:void(0)">About Company</a>
+                  </li>
+                  <li class="single-list">
+                    <a class="single" href="javascript:void(0)">Latest Projects</a>
+                  </li>
+                  <li class="single-list">
+                    <a class="single" href="javascript:void(0)">Latest Blog</a>
+                  </li>
+                  <li class="single-list">
+                    <a class="single" href="javascript:void(0)">Our Testimonials</a>
+                  </li>
+                  <li class="single-list">
+                    <a class="single" href="javascript:void(0)">Our Mission</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xl-2 col-lg-6">
+              <div class="footer-link">
+                <h4 class="title">Get Support</h4>
+                <ul class="imp-link">
+                  <li class="single-list">
+                    <a class="single" href="javascript:void(0)">About</a>
+                  </li>
+                  <li class="single-list">
+                    <a class="single" href="javascript:void(0)">How it Works</a>
+                  </li>
+                  <li class="single-list">
+                    <a class="single" href="javascript:void(0)">Knowledge Hub</a>
+                  </li>
+                  <li class="single-list">
+                    <a class="single" href="javascript:void(0)">Success Stories</a>
+                  </li>
+                  <li class="single-list">
+                    <a class="single" href="javascript:void(0)">Contact</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-5">
+              <div class="footer-link">
+                <h4 class="title">Get Support</h4>
+                 <ul class="imp-link">
+                  <li class="single-list">
+                    <div class="d-flex align-items-center gap-10 mb-20">
+                      <div class="imp-icon">
+                        <i class="ri-mail-fill"></i>
+                      </div>
+                      <a class="single" href="javascript:void(0)">donatesmileofficial@gmail.com</a>
+                    </div>
+                  </li>
+                  <li class="single-list">
+                    <div class="d-flex align-items-center gap-10 mb-20">
+                      <div class="imp-icon">
+                        <i class="ri-phone-fill"></i>
+                      </div>
+                      <a class="single" href="javascript:void(0)">03108535592</a>
+                    </div>
+                  </li>
+                  <li class="single-list">
+                    <div class="d-flex align-items-center gap-10 mb-20">
+                      <div class="imp-icon">
+                        <i class="ri-map-pin-2-fill"></i>
+                      </div>
+                      <a class="single" href="javascript:void(0)">Donate Smile 123 Bosan Road 
+                        Multan, Pakistan
+                        </a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+             
+          </div>
+          <hr class="footer-line">
+        </div>
+        <!-- footer-bottom area -->
+        <div class="footer-bottom-area">
+          <div class="container">
+            <div class="footer-border">
+              <div class="row">
+                <div class="col-xl-12">
+                  <div class="footer-copy-right text-center">
+                    <p class="pera">Copyright © 2023 initTheme. All rights reserved.</p>
+                    <div class="footer-social-link">
+                      <ul class="listing">
+                        <li class="single-list">
+                          <a class="single" href=""><i class="ri-facebook-fill"></i></a>
+                        </li>
+                        <li class="single-list">
+                          <a class="single" href=""><i class="ri-youtube-fill"></i></a>
+                        </li>
+                        <li class="single-list">
+                          <a class="single" href=""><i class="ri-instagram-line"></i></a>
+                        </li>
+                        <li class="single-list">
+                          <a class="single" href=""><i class="ri-linkedin-fill"></i></a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- End-of Footer -->
+    <!-- Scroll Up  -->
+    <div class="progressParent" id="back-top">
+      <svg class="backCircle svg-inner" width="100%" height="100%" viewBox="-1 -1 102 102">
+        <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"/>
+      </svg>
+    </div>
+    <!-- Add an overlay element -->
+    <div class="overlay"></div>
+    <!-- jquery-->
+    <script>
+      function showSuccessMessage() {
+  Swal.fire({
+    icon: 'success',
+    title: 'Registered Successful!',
+    text: 'Welcome back!',
+    confirmButtonText: 'OK',
+    timer: 2000,
+    timerProgressBar: true,
+    customClass: {
+      confirmButton: 'custom-ok-button' 
+    }
+  });
+}
+function showErrorMessage() {
+  Swal.fire({
+    icon: 'error',
+    title: 'Registeration Failed!',
+    text: 'An error occurred. Please try again later.',
+    confirmButtonText: 'OK',
+    timer: 2000,
+    timerProgressBar: true,
+    customClass: {
+      confirmButton: 'custom-ok-button' 
+    }
+  });
+}
+
+     document.getElementById('signupForm').addEventListener('submit', async function(event) {
+  event.preventDefault();
+
+  const name = document.getElementById('name').value;
+  const email = document.getElementById('email').value;
+  const password = document.getElementById('password').value;
+  const confirmPassword = document.getElementById('confirmPassword').value;
+
+  try {
+    const res = await fetch('http://localhost:5000/api/auth/signup', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ name, email, password, confirmPassword })
+     
+    });
+    ;
+    if (!res.ok) {
+      throw new Error(`HTTP error! status: ${res.status}`);
+    }
+
+    const data = await res.json(); // Parse JSON only if there's a response body
+    showSuccessMessage();
+
+    setTimeout(function() {
+            window.location.href = "/theme/login.html"; 
+}, 3000);
+  } catch (err) {
+    console.error('Error:', err.message);
+  }
+});
+
+    </script>
+    <script src="assets/js/jquery-3.7.0.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap-5.3.0.min.js"></script>
+    <!-- Plugin -->
+    <script src="assets/js/plugin.js"></script>
+    <!-- Main js-->
+    <script src="assets/js/main.js"></script>
+
+
+   
+  </body>
+</html>

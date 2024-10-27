@@ -1,0 +1,640 @@
+Uri: https://charitfix.vercel.app/assets/images/hero-bg.jpg
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\assets\images\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://charitfix.vercel.app/assets/images/hero.jpg
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\assets\images\hero.jpg
+Content Type: image/jpeg
+
+Uri: https://charitfix.vercel.app/theme/about.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\about.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/assets/css/bootstrap-5.3.0.min.css
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\css\bootstrap-5.3.0.min.css
+Content Type: text/css
+
+Uri: https://charitfix.vercel.app/theme/assets/css/main-style.css
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\css\main-style.css
+Content Type: text/css
+
+Uri: https://charitfix.vercel.app/theme/assets/css/plugin.css
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\css\plugin.css
+Content Type: text/css
+
+Uri: https://charitfix.vercel.app/theme/assets/css/remixicon.css
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\css\remixicon.css
+Content Type: text/css
+
+Uri: https://charitfix.vercel.app/theme/assets/fonts/
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\fonts\fonts
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/assets/fonts/index.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\fonts\index.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/assets/fonts/remixicon.css
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\fonts\remixicon.css
+Content Type: text/css
+
+Uri: https://charitfix.vercel.app/theme/assets/fonts/remixicon.eot
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\fonts\remixicon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://charitfix.vercel.app/theme/assets/fonts/remixicon.eot?t=1690730386070
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\fonts\remixicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://charitfix.vercel.app/theme/assets/fonts/remixicon.svg
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\fonts\remixicon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://charitfix.vercel.app/theme/assets/fonts/remixicon.svg?t=1690730386070
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\fonts\remixicon.svg
+Content Type: image/svg+xml
+
+Uri: https://charitfix.vercel.app/theme/assets/fonts/remixicon.ttf?1690730386095
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\fonts\remixicon-1.ttf
+Content Type: font/ttf
+
+Uri: https://charitfix.vercel.app/theme/assets/fonts/remixicon.ttf?t=1690730386070
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\fonts\remixicon.ttf
+Content Type: font/ttf
+
+Uri: https://charitfix.vercel.app/theme/assets/fonts/remixicon.woff2?1690730386095
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\fonts\remixicon-1.woff2
+Content Type: font/woff2
+
+Uri: https://charitfix.vercel.app/theme/assets/fonts/remixicon.woff2?t=1690730386070
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\fonts\remixicon.woff2
+Content Type: font/woff2
+
+Uri: https://charitfix.vercel.app/theme/assets/fonts/remixicon.woff?1690730386095
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\fonts\remixicon-1.woff
+Content Type: font/woff
+
+Uri: https://charitfix.vercel.app/theme/assets/fonts/remixicon.woff?t=1690730386070
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\fonts\remixicon.woff
+Content Type: font/woff
+
+Uri: https://charitfix.vercel.app/theme/assets/fonts/unicode.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\fonts\unicode.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/about-3.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\about-3.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/about-cover-2.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\about-cover-2.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-1.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-1.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-10.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-10.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-11.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-11.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-12.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-12.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-13.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-13.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-14.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-14.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-15.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-15.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-16.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-16.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-2.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-2.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-3.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-3.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-4.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-4.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-5.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-5.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-6.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-6.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-7.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-7.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-8.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-8.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-9.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-9.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-multi-1.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-multi-1.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-multi-2.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-multi-2.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/blog-verti.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\blog-verti.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/brand-1.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\brand-1.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/brand-2.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\brand-2.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/brand-3.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\brand-3.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/brand-4.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\brand-4.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/breadcrumb-1.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\breadcrumb-1.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/brush-bg-two.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\brush-bg-two.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/brush.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\brush.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/comment-1.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\comment-1.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/comment-2.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\comment-2.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/comment-3.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\comment-3.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/comment-4.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\comment-4.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/donate-1.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\donate-1.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/donate-2.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\donate-2.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/donate-3.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\donate-3.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/donate-4.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\donate-4.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/donate-5.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\donate-5.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/donate-6.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\donate-6.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/donate-7.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\donate-7.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/donate-8.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\donate-8.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/donate-details.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\donate-details.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/donor-1.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\donor-1.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/donor-2.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\donor-2.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/donor-3.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\donor-3.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/donor-4.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\donor-4.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/event-2.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\event-2.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/event-3.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\event-3.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/event-4.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\event-4.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/event-5.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\event-5.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/event-6.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\event-6.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/fav-1.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\fav-1.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/fav-3.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\fav-3.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/fav-4.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\fav-4.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/fav-5.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\fav-5.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/footer-graph.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\footer-graph.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/gallery-1.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\gallery-1.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/gallery-2.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\gallery-2.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/gallery-3.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\gallery-3.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/gallery-4.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\gallery-4.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/post-1.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\post-1.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/post-2.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\post-2.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/post-3.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\post-3.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/post-4.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\post-4.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/project-1.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\project-1.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/project-2.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\project-2.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/que.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\que.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/team-1.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\team-1.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/team-2.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\team-2.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/team-3.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\team-3.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/testimonial-4.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\testimonial-4.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/testimonial-5.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\testimonial-5.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/testimonial-6.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\testimonial-6.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/testimonial.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\testimonial.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/urgent-1.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\urgent-1.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/user.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\user.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/gallery/volunteer-1.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\gallery\volunteer-1.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/hero/hero-1.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\hero\hero-1.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/hero/hero-2.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\hero\hero-2.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/hero/hero-3.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\hero\hero-3.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/hero/hero-6.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\hero\hero-6.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/hero/hero-bg.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\hero\hero-bg.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/icon/favicon.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\icon\favicon.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/icon/google-icon.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\icon\google-icon.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/icon/payment-method1.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\icon\payment-method1.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/icon/payment-method10.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\icon\payment-method10.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/icon/payment-method12.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\icon\payment-method12.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/icon/payment-method13.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\icon\payment-method13.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/icon/payment-method15.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\icon\payment-method15.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/icon/payment-method16.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\icon\payment-method16.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/icon/payment-method2.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\icon\payment-method2.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/icon/payment-method3.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\icon\payment-method3.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/icon/payment-method4.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\icon\payment-method4.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/icon/payment-method6.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\icon\payment-method6.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/icon/payment-method7.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\icon\payment-method7.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/icon/payment-method8.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\icon\payment-method8.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/icon/tick.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\icon\tick.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/logo/dark.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\logo\dark.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/images/logo/Logo-charitfix.png
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\images\logo\Logo-charitfix.png
+Content Type: image/png
+
+Uri: https://charitfix.vercel.app/theme/assets/js/bootstrap-5.3.0.min.js
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\js\bootstrap-5.3.0.min.js
+Content Type: application/javascript
+
+Uri: https://charitfix.vercel.app/theme/assets/js/jquery-3.7.0.min.js
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\js\jquery-3.7.0.min.js
+Content Type: application/javascript
+
+Uri: https://charitfix.vercel.app/theme/assets/js/main.js
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://charitfix.vercel.app/theme/assets/js/plugin.js
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\js\plugin.js
+Content Type: application/javascript
+
+Uri: https://charitfix.vercel.app/theme/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://charitfix.vercel.app/theme/blog-details.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\blog-details.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/blog.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\blog.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/contact-us.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\contact-us.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/donate-payment.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\donate-payment.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/donation-details.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\donation-details.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/donation.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\donation.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/event-details.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\event-details.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/faq.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\faq.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/forgot-pass.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\forgot-pass.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/index-three.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\index-three.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/index-two.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\index-two.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/index.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\index.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/login.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\login.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/new-password.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\new-password.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/privacy-policy.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\privacy-policy.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/register.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\register.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/terms-condition.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\terms-condition.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/verification.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\verification.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/volunteer-details.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\volunteer-details.html
+Content Type: text/html
+
+Uri: https://charitfix.vercel.app/theme/volunteer.html
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\theme\volunteer.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Open+Sans:wght@300;400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\charitfix.vercel.app\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
